@@ -1,0 +1,3 @@
+-  Hi, This is Li Yiang. 
+-  This repository contains the source data of all the tables and figues mentioned in my term paper for Mr. Tang's Information Technology and Language Services (信息技术和语言服务) course.
+-  Have a nice day!
